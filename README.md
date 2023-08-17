@@ -1,4 +1,4 @@
-<h1> align="center"> RocketNotes </h1>
+<h1>align="center"> RocketNotes </h1>
 
 <p align="center">
 Projeto desenvolvido no curso Explorer da Rocketseat.
