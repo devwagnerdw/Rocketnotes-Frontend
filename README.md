@@ -10,7 +10,7 @@ Projeto desenvolvido no curso Explorer da Rocketseat.
   <a href="#-contato">Contatos</a>
 </p>
 <p align="center">
-  <img alt="License" src="[./src/assets/previewLarge.png](https://user-images.githubusercontent.com/103940637/261453928-b5782d60-1e30-46fc-926b-583c87fb1337.png)">
+  <img alt="License" src="https://user-images.githubusercontent.com/103940637/261453928-b5782d60-1e30-46fc-926b-583c87fb1337.png">
 </p>
 
 ## 🚀 Tecnologias
