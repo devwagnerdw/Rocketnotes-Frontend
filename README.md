@@ -15,7 +15,7 @@ Projeto desenvolvido no curso Explorer da Rocketseat.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Neste projeto, foram empregadas as seguintes tecnologias de desenvolvimento:
 
 - JavaScript
 - React
@@ -27,22 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-O RocketNotes é um projeto empolgante desenvolvido no estágio 9 da trilha Explorer da Rocketseat. Nosso objetivo é criar um sistema simples, utilizando tecnologias modernas como React, Vite, React Router DOM, Styled Components e React Icons. 
-<br/><br/>
-Com o RocketNotes, aprendemos a trabalhar com o framework React, que nos proporciona uma estrutura eficiente e escalável para o desenvolvimento de interfaces de usuário interativas. Além disso, utilizamos o Vite como nosso bundler, que nos oferece um tempo de compilação rápido e uma experiência de desenvolvimento ágil.
-<br/><br/>
-A integração do React Router DOM nos permitiu criar um roteamento dinâmico para nossa aplicação, possibilitando a navegação entre diferentes páginas sem recarregar a página inteira. Isso melhora significativamente a experiência do usuário.
-<br/><br/>
-Utilizamos também o Styled Components, uma biblioteca de estilização para React, que nos permite escrever estilos em JavaScript, tornando o processo de criação e manutenção dos estilos mais fácil e organizado.
-<br/><br/>
-Por fim, os React Icons nos fornecem uma biblioteca de ícones prontos para uso, permitindo adicionar elementos visuais de forma rápida e consistente em nossa aplicação.
-<br/><br/>
-Embora o projeto ainda não possua um back-end, essa experiência nos proporcionou uma compreensão mais profunda de como desenvolver interfaces de usuário utilizando o React e suas bibliotecas complementares. Também aprendemos a organizar e estruturar nosso código de forma eficiente, trabalhando com componentes reutilizáveis e aproveitando os benefícios das ferramentas modernas.
-<br/><br/>
-O RocketNotes é apenas o começo de minha jornada no mundo do desenvolvimento web, e estou entusiasmados em continuar explorando e aprimorando minhas habilidades com essas tecnologias incríveis.
-<br/>
+Rocketnotes é uma plataforma web que possibilita aos usuários criar anotações organizadas sobre uma variedade de tópicos. A aplicação oferece recursos como registro de contas, permitindo aos usuários se inscreverem e terem acesso a um sistema de gerenciamento de notas avançado. Cada nota pode ser enriquecida com um título descritivo, uma explicação detalhada, links relevantes e etiquetas personalizadas.
+
+Além disso, Rocketnotes oferece uma gama de funcionalidades, incluindo a capacidade de personalizar perfis de usuário. Os usuários podem alterar seu avatar, nome, endereço de email e senha, proporcionando uma experiência personalizada. Este projeto é parte integrante da trilha/curso Explorer, uma oferta educacional fornecida pela Rocketseat para aqueles que desejam aprofundar seus conhecimentos nesse campo.
 
 ## 📱 Contato
 
-dilanferrari@hotmail.com  
-<a>https://www.linkedin.com/in/dilanferrari/</a>
+vagnerdw1@gmail.com  
+<a>https://www.linkedin.com/in/vagne-alves-573a24244/</a>
