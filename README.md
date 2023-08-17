@@ -14,7 +14,7 @@ Projeto desenvolvido no curso Explorer da Rocketseat.
 </p>
 
 ##
-([link do backend ](https://github.com/devwagnerdw/Food-explorer-Backend)).
+([link do backend ](https://github.com/devwagnerdw/Rocketnotes-backend)).
 
 ## 🚀 Tecnologias
 
