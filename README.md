@@ -8,11 +8,7 @@ Rocketnotes é uma plataforma web que possibilita aos usuários criar anotaçõe
 
 Além disso, Rocketnotes oferece uma gama de funcionalidades, incluindo a capacidade de personalizar perfis de usuário. Os usuários podem alterar seu avatar, nome, endereço de email e senha, proporcionando uma experiência personalizada. Este projeto é parte integrante da trilha/curso Explorer. Sinta-se à vontade para explorar mais sobre esse projeto e suas funcionalidades!
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-contato">Contatos</a>
-</p>
+
 <p align="center">
   <img alt="License" src="https://github.com/devwagnerdw/Rocketnotes-backend/assets/103940637/b5782d60-1e30-46fc-926b-583c87fb1337">>
 ">
