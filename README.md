@@ -13,6 +13,9 @@ Projeto desenvolvido no curso Explorer da Rocketseat.
   <img alt="License" src="https://user-images.githubusercontent.com/103940637/261453928-b5782d60-1e30-46fc-926b-583c87fb1337.png">
 </p>
 
+##
+([link do backend ](https://github.com/devwagnerdw/Food-explorer-Backend)).
+
 ## 🚀 Tecnologias
 
 Neste projeto, foram empregadas as seguintes tecnologias de desenvolvimento:
