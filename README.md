@@ -24,7 +24,7 @@ Neste projeto, foram empregadas as seguintes tecnologias de desenvolvimento:
 - React
 - Styled Components
 - React Router DOM
-- Git e Github
+  
 <br/>
 
 ## 💻 Projeto
